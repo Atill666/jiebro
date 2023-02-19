@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 //第一次添加注释
-
+//第二次添加注释
 interface ISignup{
     public void print();
     public boolean addStudent(int strType);
